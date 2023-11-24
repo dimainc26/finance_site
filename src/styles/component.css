@@ -1,0 +1,73 @@
+
+[class^="master-card-"] {
+    z-index: 4;
+  width: 514px;
+  height: 332px;
+  transform: rotate(-30deg);
+  border-radius: 31.676px;
+  border: 2.549px solid rgba(255, 255, 255, 0.5);
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(15.838117599487305px);
+
+  padding: 25px;
+  position: relative;
+}
+
+[class^="vector-"] {
+  transform: rotate(30deg);
+}
+
+.vector-visa {
+  fill: #fff;
+
+  position: absolute;
+  left: 25px;
+}
+
+.vector-wifi {
+  position: absolute;
+  right: 25px;
+}
+
+.code {
+  color: #fff;
+  font-family: Space Mono;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  position: absolute;
+  bottom: 26%;
+  left: 50px;
+}
+
+.vector-master {
+  position: absolute;
+  right: 25px;
+  bottom: 25px;
+}
+
+.down {
+  color: #fff;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  position: absolute;
+  bottom: 25px;
+  left: 50px;
+}
+
+.date {
+  color: #fff;
+  font-family: Space Mono;
+  font-size: 14.783px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.062px;
+  text-transform: uppercase;
+  position: absolute;
+  bottom: 25px;
+  left: 40%;
+}
