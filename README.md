@@ -5,8 +5,9 @@ Per esercitarci con HTML/CSS, ci sono stati offerti diversi disegni e illustrazi
 
 ## Screenshot
 
-![screenshot_04_02_2024 15-35-06](https://github.com/dimainc26/kitkat_landing/assets/125144533/29364e10-301f-471f-a0ab-c920a4d99abb)
-![screenshot_04_02_2024 15-35-41](https://github.com/dimainc26/kitkat_landing/assets/125144533/576a96af-1fbd-4336-b555-80a0e0bffc52)
+![screenshot_04_02_2024 15-51-04](https://github.com/dimainc26/finance_site/assets/125144533/920d9ec9-c2cc-4056-abe6-79e9d5f0870c)
+![screenshot_04_02_2024 15-51-42](https://github.com/dimainc26/finance_site/assets/125144533/1a24388c-9997-4a28-adf2-d20d1ded732e)
+
 
 
 
