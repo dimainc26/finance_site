@@ -1,17 +1,20 @@
-HTML CSS project to practice
+# FinanceX - Responsive Web page 
+## CFF
 
-title: Finance Web Resonsive Landinng Page
-start date: 22/10/2023 
-end date: 24/11/2023 
-category: HTML/CSS  
-HTML/CSS my property: @mediaQuery
+Per esercitarci con HTML/CSS, ci sono stati offerti diversi disegni e illustrazioni Figma. Ne ho realizzati alcuni, compreso questo. FinanceX è un sito Web in stile gestione account, transazioni finanziarie, ecc. 
 
-Design: ![finance_website](https://github.com/dimainc26/finance_site/assets/125144533/1cb92f3e-5b8f-4043-9695-5be40c2b1218)
+## Screenshot
 
-Preview: 
-
-https://github.com/dimainc26/finance_site/assets/125144533/90cf597f-d9dc-4cb3-a0c9-f4b0ab5e622c
+![screenshot_04_02_2024 15-35-06](https://github.com/dimainc26/kitkat_landing/assets/125144533/29364e10-301f-471f-a0ab-c920a4d99abb)
+![screenshot_04_02_2024 15-35-41](https://github.com/dimainc26/kitkat_landing/assets/125144533/576a96af-1fbd-4336-b555-80a0e0bffc52)
 
 
 
-inspiration: www.dribbble.com
+## Tecnologie Utilizzate
+
+- HTML5
+- CSS3
+
+## Caratteristiche
+
+- Responsive
